@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.tu_bs.ccc.contracting.tool.feature_1.0.0.qualifier.jar" id="de.tu_bs.ccc.contracting.tool.feature" version="1.0.0.qualifier">
+      <category name="ccc"/>
+   </feature>
+   <category-def name="ccc" label="CCC"/>
+</site>
